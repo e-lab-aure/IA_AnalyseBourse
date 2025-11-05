@@ -14,7 +14,7 @@ venv/
 env/
 
 # Empêche d’exposer les infos sensibles
-secrets.py
+secrets_variables.py
 positions.csv
 
 # Fichiers temporaires
