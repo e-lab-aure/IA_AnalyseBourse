@@ -1,7 +1,21 @@
-# Empêche d’exposer les infos sensibles
-secrets.py
-positions.csv
 __pycache__/
 *.pyc
 venv/
 
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual environment
+venv/
+env/
+
+# Empêche d’exposer les infos sensibles
+secrets.py
+positions.csv
+
+# CSVs volumineux ou fichiers temporaires
+*.pdf
