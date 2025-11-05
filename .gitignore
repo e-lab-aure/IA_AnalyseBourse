@@ -17,5 +17,5 @@ env/
 secrets.py
 positions.csv
 
-# CSVs volumineux ou fichiers temporaires
+# Fichiers temporaires
 *.pdf
